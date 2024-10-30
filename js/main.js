@@ -1,2 +1,2 @@
 console.info("Hello from the file");
-document.
+document.getElementById("myHeading").innerHTML;
